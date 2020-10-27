@@ -1,8 +1,15 @@
 ### Hi there 👋
 
+Hi, I'm Candace! I'm a web developer and designer.
+
+Find me here:
+* [LinkedIn](https://linkedin.com/in/candaceyw)
+* [Portfolio](https://candaceyw.com)
+* [Twitter](https://twitter.com/geekyTallGal)
+
+
 <!--
 **candaceyw/candaceyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
