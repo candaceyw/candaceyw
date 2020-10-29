@@ -2,6 +2,8 @@
 
 Hi, I'm Candace! I'm a web developer and designer.
 
+I'm an ambitious, seasoned graphic designer and developer with over 17 years of experience in design. While I have a strong eye for design, I also love learning new skills that keep me challenged. HTML, CSS (SASS and LESS), JavaScript, React, React-Redux, Node, SQL, Python has opened up opportunities for me to build out my ideas from design to development.
+
 Find me here:
 * [LinkedIn](https://linkedin.com/in/candaceyw)
 * [Portfolio](https://candaceyw.com)
