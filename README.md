@@ -1,14 +1,14 @@
 ### Hi, I'm Candace! 👋
 
-I'm a web developer and designer.
+I'm a Visual and UX Designer 
 
-After 18+ years in design, I have transitioned over to the development world. While I have a strong eye for design, I also love learning new skills that keep me challenged. HTML, CSS (SASS and LESS), JavaScript, React, React-Redux, Node, SQL, Python has opened up opportunities for me to build out my ideas from design to development.
+Over 18 years of combined experience in print and digital design.
 
-I'm currently learning Typescript and GraphQL
+I'm currently working on my Google UX certification.
 
 Find me here:
 * [LinkedIn](https://linkedin.com/in/candaceyw)
-* [Portfolio](https://candaceyw.com)
+* [Portfolio](https://candacewilson.me)
 * [Twitter](https://twitter.com/geekyTallGal)
 
 [![Candace's github stats](https://github-readme-stats.vercel.app/api?username=candaceyw)](https://github.com/candaceyw/github-readme-stats)
