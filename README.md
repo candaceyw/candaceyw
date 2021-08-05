@@ -3,6 +3,8 @@
 I'm a Visual and UX Designer 
 
 Over 18 years of combined experience in print and digital design.
+I also have a background in Full Stack Web Development, I earned my certificate through Lambda School in 2020. 
+I have a passion for interactive and visual design, and front-end development. 
 
 I'm currently working on my Google UX certification.
 
